@@ -1,15 +1,16 @@
-📄 Documentos
+##📄 Documentos
 Esta pasta contém documentos profissionais relacionados ao portfólio.
 
-Conteúdo
+##Conteúdo
 Currículo Profissional - Versão atualizada em formato PDF
-Arquivos
+
+#Arquivos
 Arquivo do currículo profissional
 
-Currículo
+#Currículo
 CV_Rafael_Robson_2026
 
-📞 Contato
+**📞 Contato**
 Rafael Robson Nunes de Araújo
 
 Email: rafaelrobsonnunesdearaujo@gmail.com
