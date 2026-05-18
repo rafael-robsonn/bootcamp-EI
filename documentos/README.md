@@ -15,5 +15,7 @@ CV_Rafael_Robson_2026
 Rafael Robson Nunes de Araújo
 
 Email: rafaelrobsonnunesdearaujo@gmail.com
+
 LinkedIn: rafael-robson
+
 GitHub: rafael-robsonn
